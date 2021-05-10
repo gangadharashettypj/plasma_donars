@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57577021143",
+    "project_id": "plasmadonars-2d656",
+    "storage_bucket": "plasmadonars-2d656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57577021143:android:c300868bf5da5b8a2f5a92",
+        "android_client_info": {
+          "package_name": "com.nixbees.plasma_donars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57577021143-6i639a4q7rar9ed6573sg1c90o5gel42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvm_vHj44-qIv7JQtQRMndvQ4ZKllmkqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57577021143-6i639a4q7rar9ed6573sg1c90o5gel42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
